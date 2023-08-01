@@ -1,41 +1,22 @@
 ---
-title: "Research"
-layout: gridlay
-sitemap: false
+title:
+layout: default
 permalink: /research/
+published: true
 ---
 
-<style>
-img{
-  border-radius: 10px;
-}
-.col-md-3 {
-  margin-top:10px;
-  margin-bottom:10px;
-  padding:0px;
-  display:block;
-  overflow:hidden;
-  text-align:center;
-  display: table-cell;
-  background: white;
-  border-radius: 20px;
-  height: auto;
-}
-iframe {
-  margin:0;
-  padding:0;
-  width: 175px;
-  display: inline;
-  vertical-align: middle;
-}
-</style>
-
 ## Research
+My research interests fall in three macro-areas of computer science and engineering:
+- distributed systems
+- intelligent and autonomous systems
+- algorithms and optimization
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-<h4>Example Research</h4>
-
-Example description
-</div>
-</div>
+Focuses I have interested on are:
+- Wireless Sensor Networks
+- Edge Computing
+- [Edge Intelligence]({{site.baseurl}}/research/edge-ai)
+- Federated Learning
+- Autonomous Vehicles
+- Reinforcement Learning
+- Swarm Intelligence
+- Genetic Algorithms
