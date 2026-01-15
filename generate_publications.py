@@ -440,10 +440,104 @@ def generate_html(pub):
     
     return html, date_str, pub_key
 
+def generate_publications_index(output_file, pub_links):
+    """Generate the publications index HTML file."""
+    
+    # Sort publications by year (descending)
+    pub_links.sort(key=lambda x: int(x['year']), reverse=True)
+    
+    # Group by type
+    articles = [p for p in pub_links if p['type'] in ['article']]
+    books = [p for p in pub_links if p['type'] in ['book']]
+    inproceedings = [p for p in pub_links if p['type'] in ['inproceedings', 'conference']]
+    incollections = [p for p in pub_links if p['type'] in ['incollection']]
+    others = [p for p in pub_links if p['type'] not in ['article', 'book', 'inproceedings', 'conference', 'incollection', 'phdthesis', 'misc']]
+    thesis = [p for p in pub_links if p['type'] in ['phdthesis']]
+    misc = [p for p in pub_links if p['type'] in ['misc']]
+    
+    # Read the template (keeping header and footer from original)
+    with open(output_file, 'r', encoding='utf-8') as f:
+        original = f.read()
+    
+    # Extract header (everything before <div class="archive">)
+    header_end = original.find('<div class="archive">')
+    header = original[:header_end] if header_end != -1 else original
+    
+    # Extract footer (everything after </div>\n  </div>)
+    footer_start = original.find('  </div>\n</div>\n\n\n    <div class="page__footer">')
+    footer = original[footer_start:] if footer_start != -1 else ''
+    
+    # Build publication entries
+    def build_pub_entry(pub):
+        """Build HTML for a single publication entry."""
+        filename = pub['filename']
+        title = pub['title']
+        journal = pub['journal']
+        year = pub['year']
+        
+        # Extract date and slug from filename (YYYY-MM-slug.html)
+        # Remove .html and use as full path
+        link_path = filename[:-5]  # Remove .html
+        link = f"/albertocarraro/publication/{link_path}"
+        
+        html = f'''
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="{link}" rel="permalink">{title}</a>
+    </h2>
+    
+    <p>Published in <i>{journal}</i>, {year}</p>
+    
+    <p class="archive__item-excerpt" itemprop="description">{pub['authors']}</p>
+  </article>
+</div>
+'''
+        return html
+    
+    # Build content sections
+    content = '<div class="archive">\n    <h1 class="page__title">Publications</h1>\n'
+    content += '  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?user=PS_CX0AAAAAJ">my Google Scholar profile</a>.</div>\n\n'
+    
+    if articles:
+        content += '\n    <h2>Journal Articles</h2><hr />\n'
+        for pub in articles:
+            content += build_pub_entry(pub)
+    
+    if incollections:
+        content += '\n    <h2>Book Chapters</h2><hr />\n'
+        for pub in incollections:
+            content += build_pub_entry(pub)
+    
+    if inproceedings:
+        content += '\n    <h2>Conference Papers</h2><hr />\n'
+        for pub in inproceedings:
+            content += build_pub_entry(pub)
+    
+    if thesis:
+        content += '\n    <h2>Theses</h2><hr />\n'
+        for pub in thesis:
+            content += build_pub_entry(pub)
+    
+    if misc or others:
+        content += '\n    <h2>Other Publications</h2><hr />\n'
+        for pub in misc + others:
+            content += build_pub_entry(pub)
+    
+    content += '\n  </div>\n</div>\n'
+    
+    # Combine and write
+    new_html = header + content + footer
+    
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(new_html)
+
+
 def main():
     """Main function."""
     bib_file = '/Users/acarraro/GitHub/albertocarraro/my_publications.bib'
     output_dir = '/Users/acarraro/GitHub/albertocarraro/docs/publication'
+    index_file = '/Users/acarraro/GitHub/albertocarraro/docs/publications/index.html'
     
     # Create output directory if it doesn't exist
     os.makedirs(output_dir, exist_ok=True)
@@ -467,8 +561,9 @@ def main():
             os.remove(old_path)
             print(f"Deleted {old_file}")
     
-    # Generate HTML files
+    # Generate HTML files for publications
     print("\nGenerating publication HTML files...")
+    pub_links = []
     for pub in publications:
         html, date_str, slug = generate_html(pub)
         filename = f"{date_str}-{slug}.html"
@@ -478,7 +573,25 @@ def main():
             f.write(html)
         
         title = get_publication_title(pub)
+        journal = pub.get('journal', pub.get('booktitle', 'Unknown'))
+        year = pub.get('year', 'n.d.')
+        
+        # Store publication link info for index generation
+        pub_links.append({
+            'filename': filename,
+            'title': title,
+            'journal': journal,
+            'year': year,
+            'type': pub.get('type', 'article'),
+            'authors': format_authors(pub.get('author', 'Unknown Author'))
+        })
+        
         print(f"Created {filename}: {title}")
+    
+    # Generate publications index
+    print(f"\nGenerating publications index...")
+    generate_publications_index(index_file, pub_links)
+    print(f"Generated publications index at {index_file}")
     
     print(f"\nGenerated {len(publications)} publication files in {output_dir}")
 
