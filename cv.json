@@ -1,0 +1,773 @@
+{
+  "basics": {
+    "name": "Alberto Carraro",
+    "email": "alberto.carraro@gmail.com",
+    "phone": "3480543684",
+    "website": "",
+    "summary": "Docente e ricercatore con interessi che spaziano dai fondamenti dell’informatica alle applicazioni di Intelligenza Artificiale e Computer Vision in Precision Agriculture, Precision Livestock Farming e Food Quality Control.",
+    "location": {
+      "address": "Viale Garibaldi 3B",
+      "postalCode": "30174",
+      "city": "Mestre (VE)",
+      "countryCode": "IT",
+      "region": "Veneto"
+    },
+    "profiles": [
+      {
+        "network": "Email (PEC/Legalmail)",
+        "username": "alberto.carraro.2025@legalmail.it",
+        "url": "mailto:alberto.carraro.2025@legalmail.it"
+      }
+    ],
+    "birthDate": "1983-07-10",
+    "nationality": "Italiana"
+  },
+  "work": [
+    {
+      "startDate": "2025-10-01",
+      "endDate": null,
+      "position": "Docente a tempo indeterminato (distacco presso USR Veneto, Ufficio III)",
+      "name": "Ministero dell’Istruzione e del Merito",
+      "industry": "Istruzione",
+      "summary": "Servizio statistico/informatico dell’Ufficio III (Veneto).",
+      "highlights": [
+        "Gestione dati e procedure riguardanti il personale della scuola nella Regione Veneto."
+      ]
+    },
+    {
+      "startDate": "2022-10-01",
+      "endDate": "2025-09-30",
+      "position": "Dottorando (LEHR) – Computer Vision e AI in Agri/Food",
+      "name": "Università di Padova – Dipartimento TESAF (LEHR)",
+      "industry": "Università",
+      "summary": "Studio e sviluppo di applicazioni di Computer Vision e Intelligenza Artificiale in Agricoltura di Precisione, Allevamento di Precisione e Controllo Qualità Alimentare.",
+      "highlights": [
+        "Ricerca e sviluppo.",
+        "Supervisione tesi (A.A. 2024–2025): Poornendu Ranjan Chatterjee; Giulia Bugin."
+      ]
+    },
+    {
+      "startDate": "2025-01-01",
+      "endDate": "2026-12-31",
+      "position": "Contratto esterno di ricerca",
+      "name": "Università di Padova – Dipartimento TESAF",
+      "industry": "Ricerca universitaria",
+      "summary": "Sviluppo e perfezionamento di sistema di Computer Vision.",
+      "highlights": []
+    },
+    {
+      "startDate": "2026-01-01",
+      "endDate": "2026-12-31",
+      "position": "Docente (Domotica, 20h)",
+      "name": "I.T.S. Academy Agroalimentare Veneto",
+      "industry": "Formazione terziaria",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "position": "Formatore del personale scolastico (D.M. 66/2023)",
+      "name": "I.I.S. “Antonio Pacinotti”",
+      "industry": "Scuola secondaria II grado",
+      "summary": "Formazione per la transizione digitale.",
+      "highlights": [
+        "Laboratorio Intelligenza Artificiale (15h)",
+        "Corso Intelligenza Artificiale (20h)"
+      ]
+    },
+    {
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31",
+      "position": "Formatore del personale scolastico (D.M. 66/2023)",
+      "name": "Artedo Network srl (Ente accreditato MIUR)",
+      "industry": "Formazione",
+      "summary": "",
+      "highlights": [
+        "Corso DigiFanta (16h) – I.C. “Fantappiè” (Viterbo)",
+        "Corso SUPERPROF (10h) – I.C. “Margherita Hack” (Gorle)",
+        "Corso Navighiamo insieme (7h) – I.I.S. “Leonardo Da Vinci” (Piazza Armerina)"
+      ]
+    },
+    {
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "position": "Tutor (Macchine e Impianti Zootecnici)",
+      "name": "Università di Padova – Dipartimento DAFNAE",
+      "industry": "Università",
+      "summary": "Tutor per il CdL in Scienze e Tecnologie Animali.",
+      "highlights": [
+        "Docenza"
+      ]
+    },
+    {
+      "startDate": "2018-01-01",
+      "endDate": "2022-12-31",
+      "position": "Docente A-41 (Scienze e Tecnologie Informatiche)",
+      "name": "ITIS “C. Zuccante” (Mestre, VE)",
+      "industry": "Scuola secondaria II grado",
+      "summary": "",
+      "highlights": [
+        "Animatore Digitale (A.S. 2018–2019)",
+        "Referente Formazione (A.S. 2019–2020; 2020–2021)",
+        "Membro commissione concorso A041 (A.S. 2021–2022)"
+      ]
+    },
+    {
+      "startDate": "2017-01-01",
+      "endDate": "2018-12-31",
+      "position": "Docente A-41 (Scienze e Tecnologie Informatiche)",
+      "name": "IIS “G. Bruno – R. Franchetti” (Mestre, VE)",
+      "industry": "Scuola secondaria II grado",
+      "summary": "",
+      "highlights": [
+        "Membro commissione RAV e PTOF"
+      ]
+    },
+    {
+      "startDate": "2015-01-01",
+      "endDate": "2016-12-31",
+      "position": "Docente A-41 (Scienze e Tecnologie Informatiche)",
+      "name": "ITIS “C. Zuccante” (Mestre, VE)",
+      "industry": "Scuola secondaria II grado",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "startDate": "2011-01-01",
+      "endDate": "2015-12-31",
+      "position": "Docente a contratto",
+      "name": "Università Ca’ Foscari Venezia",
+      "industry": "Università",
+      "summary": "Corsi: precorsi Matematica/Informatica, Algebra Lineare, Matematica Discreta, Calcolo, Calcolabilità e linguaggi formali, Foundations of programming languages, Summer School.",
+      "highlights": []
+    },
+    {
+      "startDate": "2004-01-01",
+      "endDate": "2014-12-31",
+      "position": "Tutor a contratto",
+      "name": "Università Ca’ Foscari Venezia",
+      "industry": "Università",
+      "summary": "Tutor per corsi (Calcolabilità e Linguaggi Formali, Algoritmi e Strutture Dati, Analisi Matematica, Strutture Discrete, Linguaggi e Compilatori).",
+      "highlights": []
+    },
+    {
+      "startDate": "2013-01-01",
+      "endDate": "2014-12-31",
+      "position": "Assegnista di ricerca",
+      "name": "Università Ca’ Foscari Venezia – Dipartimento di Scienze Ambientali, Informatica e Statistica",
+      "industry": "Università",
+      "summary": "Ricerca e sviluppo.",
+      "highlights": []
+    },
+    {
+      "startDate": "2012-01-01",
+      "endDate": "2013-12-31",
+      "position": "ATER (Attaché Temporaire d’Enseignement et de Recherche)",
+      "name": "Université Paris Diderot (Paris VII)",
+      "industry": "Università",
+      "summary": "Ricerca, sviluppo e insegnamento.",
+      "highlights": [
+        "Docenza: Introduction à la programmation, Outils logiques, Programmation orientée objets."
+      ]
+    },
+    {
+      "startDate": "2011-01-01",
+      "endDate": "2012-12-31",
+      "position": "Assegnista di ricerca",
+      "name": "Università Ca’ Foscari Venezia – Dipartimento di Scienze Ambientali, Informatica e Statistica",
+      "industry": "Università",
+      "summary": "Ricerca e sviluppo.",
+      "highlights": []
+    },
+    {
+      "startDate": "2010-01-01",
+      "endDate": "2011-12-31",
+      "position": "ATER (Attaché Temporaire d’Enseignement et de Recherche)",
+      "name": "Université Paris Diderot (Paris VII)",
+      "industry": "Università",
+      "summary": "Ricerca, sviluppo e insegnamento.",
+      "highlights": [
+        "Docenza: Introduction à la programmation, Introduction aux systèmes d’exploitation, Algorithmique."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Università di Padova – Scuola di dottorato LEHR, Dip. TESAF",
+      "area": "Dottorato di Ricerca in Meccanica Agraria (SSD AGR-09)",
+      "studyType": "PhD (in corso, conseguimento 2026)",
+      "startDate": "2022-01-01",
+      "endDate": "2025-12-31",
+      "gpa": null,
+      "courses": [],
+      "thesis": "Applications of Computer Vision in Precision Agriculture and Precision Livestock Farming",
+      "supervisors": [
+        "Francesco Marinello",
+        "Lorenzo Guerrini"
+      ]
+    },
+    {
+      "institution": "Università Milano-Bicocca & Google DeepMind",
+      "area": "Mediterranean Machine Learning Summer School (M2L)",
+      "studyType": "Summer school (selezione)",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Università di Padova",
+      "area": "Tirocinio Formativo Attivo – Abilitazione all’insegnamento (A047 Matematica Applicata)",
+      "studyType": "Abilitazione",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "gpa": "91/100",
+      "courses": []
+    },
+    {
+      "institution": "Università Europea di Roma",
+      "area": "Master I livello (60 CFU) – Metodologie dell’insegnamento e didattica multimediale",
+      "studyType": "Master",
+      "startDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "gpa": "70/70",
+      "courses": []
+    },
+    {
+      "institution": "Università di Bologna",
+      "area": "Tirocinio Formativo Attivo – Abilitazione all’insegnamento (A-41 Scienze e Tecnologie Informatiche)",
+      "studyType": "Abilitazione",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "gpa": "99/100",
+      "courses": []
+    },
+    {
+      "institution": "Ministère de l’Enseignement Supérieur et de la Recherche (France)",
+      "area": "Qualification aux fonctions de Maître de Conférences (section 27 – Informatique)",
+      "studyType": "Qualification",
+      "startDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Università Ca’ Foscari Venezia – Ordine degli Ingegneri (VE)",
+      "area": "Ingegnere dell’Informazione (sezione A)",
+      "studyType": "Abilitazione professionale",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Università Ca’ Foscari Venezia (DAIS) & Université Paris Diderot (cotutela)",
+      "area": "Dottorato di Ricerca in Informatica",
+      "studyType": "PhD",
+      "startDate": "2011-01-01",
+      "endDate": "2011-12-31",
+      "gpa": null,
+      "courses": [],
+      "thesis": "Models and theories of pure and resource lambda calculi",
+      "supervisors": [
+        "Antonino Salibra",
+        "Antonio Bucciarelli"
+      ]
+    },
+    {
+      "institution": "Università Ca’ Foscari Venezia",
+      "area": "Laurea Specialistica in Informatica",
+      "studyType": "MSc",
+      "startDate": "2007-01-01",
+      "endDate": "2007-12-31",
+      "gpa": "110/110 e lode",
+      "courses": [],
+      "thesis": "Models and theories of lambda calculus"
+    },
+    {
+      "institution": "Università Ca’ Foscari Venezia",
+      "area": "Laurea Triennale in Informatica",
+      "studyType": "BSc",
+      "startDate": "2005-01-01",
+      "endDate": "2005-12-31",
+      "gpa": "110/110 e lode",
+      "courses": [],
+      "thesis": "Espressioni massimali per linguaggi k-regolari"
+    },
+    {
+      "institution": "ITIS “C. Zuccante” (Mestre, VE)",
+      "area": "Diploma di Perito Industriale Capotecnico – Specializzazione Informatica",
+      "studyType": "Diploma",
+      "startDate": "2002-01-01",
+      "endDate": "2002-12-31",
+      "gpa": "100/100",
+      "courses": []
+    },
+    {
+      "institution": "University of Cambridge",
+      "area": "PET (Preliminary English Test)",
+      "studyType": "Certificazione",
+      "startDate": "2001-01-01",
+      "endDate": "2001-12-31",
+      "gpa": "Pass with merit",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "advanced",
+      "keywords": [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "JavaScript",
+        "SQL",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "AI / Computer Vision",
+      "level": "advanced",
+      "keywords": [
+        "Deep Learning",
+        "Semantic Segmentation",
+        "Object Detection",
+        "RGB-D / RGB-T sensing",
+        "Dataset quality",
+        "Tensor acceleration"
+      ]
+    },
+    {
+      "name": "Embedded / IoT",
+      "level": "intermediate",
+      "keywords": [
+        "NVIDIA Jetson Orin AGX",
+        "Arduino Uno/Mega",
+        "Raspberry Pi",
+        "IoT sensors (RGB/RGBD/RGBT cameras, encoders, proximity, temperature)"
+      ]
+    },
+    {
+      "name": "Systems",
+      "level": "advanced",
+      "keywords": [
+        "Linux installation/configuration",
+        "Windows installation/configuration"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italiano",
+      "fluency": "Madrelingua"
+    },
+    {
+      "language": "Inglese",
+      "fluency": "Lettura: eccellente; scrittura: molto buono; orale: molto buono"
+    },
+    {
+      "language": "Francese",
+      "fluency": "Lettura: molto buono; scrittura: buono; orale: buono"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Lambda Calculus and related formalisms",
+      "keywords": [
+        "pure/typed/resource/differential lambda calculus",
+        "stack calculus",
+        "denotational semantics",
+        "syntax"
+      ]
+    },
+    {
+      "name": "Models and equational theories",
+      "keywords": [
+        "(in)completeness",
+        "(non)recursivity",
+        "filter models",
+        "order-theoretic models"
+      ]
+    },
+    {
+      "name": "Concurrent systems",
+      "keywords": [
+        "Petri nets",
+        "model checking",
+        "confidentiality / information flow"
+      ]
+    },
+    {
+      "name": "Deep Learning for Computer Vision",
+      "keywords": [
+        "segmentation",
+        "object detection",
+        "RGB-D/RGB-T sensing",
+        "precision agriculture",
+        "precision livestock farming",
+        "food quality control"
+      ]
+    }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "Semantic segmentation for food waste classification using RGB-D imaging",
+      "publisher": "Resources, Conservation and Recycling",
+      "releaseDate": "2026-02-01",
+      "website": "https://linkinghub.elsevier.com/retrieve/pii/S0921344925005452",
+      "summary": "",
+      "authors": "Gao, Zicheng, Huang, Yonghua, Yuan, Xufeng, Guo, Hao, Marinello, Francesco, Guerrini, Lorenzo, Carraro, Alberto",
+      "doi": "10.1016/j.resconrec.2025.108668"
+    },
+    {
+      "name": "A new tool to improve the computation of animal kinetic activity indices in precision poultry farming",
+      "publisher": "Artificial Intelligence in Agriculture",
+      "releaseDate": "2025-12-01",
+      "website": "https://linkinghub.elsevier.com/retrieve/pii/S2589721725000327",
+      "summary": "",
+      "authors": "Carraro, Alberto, Pravato, Mattia, Marinello, Francesco, Bordignon, Francesco, Trocino, Angela, Xiccato, Gerolamo, Pezzuolo, Andrea",
+      "doi": "10.1016/j.aiia.2025.03.005"
+    },
+    {
+      "name": "A variable-rate spraying system for vineyards based on RGB-D imaging and tensor acceleration",
+      "publisher": "Computers and Electronics in Agriculture",
+      "releaseDate": "2025-12-01",
+      "website": "https://linkinghub.elsevier.com/retrieve/pii/S016816992501066X",
+      "summary": "",
+      "authors": "Gao, Qi, Carraro, Alberto, Huang, Qiang, Marinello, Francesco, Sozzi, Marco",
+      "doi": "10.1016/j.compag.2025.110960"
+    },
+    {
+      "name": "Towards rigorous dataset quality standards for deep learning tasks in precision agriculture: A case study exploration",
+      "publisher": "Smart Agricultural Technology",
+      "releaseDate": "2025-03-01",
+      "website": "https://linkinghub.elsevier.com/retrieve/pii/S2772375524003253",
+      "summary": "",
+      "authors": "Carraro, A., Saurio, G., Marinello, F.",
+      "doi": "10.1016/j.atech.2024.100721"
+    },
+    {
+      "name": "How to assess the digitization and digital effort: A framework for Digitization Footprint (Part 1)",
+      "publisher": "Computers and Electronics in Agriculture",
+      "releaseDate": "2025-03-01",
+      "website": "https://linkinghub.elsevier.com/retrieve/pii/S0168169924012663",
+      "summary": "",
+      "authors": "Huang, Qiang, Wang, Xu, Gao, Qi, Carraro, Alberto, Pezzuolo, Andrea, Marinello, Francesco",
+      "doi": "10.1016/j.compag.2024.109875"
+    },
+    {
+      "name": "A vision-based dietary survey and assessment system for college students in China",
+      "publisher": "Food Chemistry",
+      "releaseDate": "2025-02-01",
+      "website": "https://linkinghub.elsevier.com/retrieve/pii/S0308814624033892",
+      "summary": "",
+      "authors": "Gao, Zicheng, Yuan, Xufeng, Lei, Jie, Guo, Hao, Marinello, Francesco, Guerrini, Lorenzo, Carraro, Alberto",
+      "doi": "10.1016/j.foodchem.2024.141739"
+    },
+    {
+      "name": "Indicators to Digitization Footprint and How to Get Digitization Footprint (Part 2)",
+      "publisher": "Computers and Electronics in Agriculture",
+      "releaseDate": "2024-09-01",
+      "website": "https://linkinghub.elsevier.com/retrieve/pii/S0168169924005970",
+      "summary": "",
+      "authors": "Huang, Qiang, Wang, Xu, Gao, Qi, Carraro, Alberto., Sozzi, Marco, Marinello, Francesco",
+      "doi": "10.1016/j.compag.2024.109206"
+    },
+    {
+      "name": "The Segment Anything Model (SAM) for accelerating the smart farming revolution",
+      "publisher": "Smart Agricultural Technology",
+      "releaseDate": "2023-12-01",
+      "website": "https://linkinghub.elsevier.com/retrieve/pii/S2772375523001958",
+      "summary": "",
+      "authors": "Carraro, Alberto, Sozzi, Marco, Marinello, Francesco",
+      "doi": "10.1016/j.atech.2023.100367"
+    },
+    {
+      "name": "Convolutional Neural Networks for the Detection of Esca Disease Complex in Asymptomatic Grapevine Leaves",
+      "publisher": "Image {Analysis} and {Processing} - {ICIAP} 2023 {Workshops} - {Udine}, {Italy}, {September} 11-15, 2023, {Proceedings}, {Part} {I}",
+      "releaseDate": "2023-01-01",
+      "website": "https://doi.org/10.1007/978-3-031-51023-6\\_35",
+      "summary": "",
+      "authors": "Carraro, Alberto, Saurio, Gaetano, López-Maestresalas, Ainara, Scardapane, Simone, Marinello, Francesco",
+      "doi": "10.1007/978-3-031-51023-6_35"
+    },
+    {
+      "name": "(Un)Decidability for History Preserving True Concurrent Logics",
+      "publisher": "46th {International} {Symposium} on {Mathematical} {Foundations} of {Computer} {Science}, {MFCS} 2021, {Tallinn}, {Estonia}, {August} 23-27, 2021",
+      "releaseDate": "2021-01-01",
+      "website": "https://doi.org/10.4230/LIPIcs.MFCS.2021.13",
+      "summary": "",
+      "authors": "Baldan, Paolo, Carraro, Alberto, Padoan, Tommaso",
+      "doi": "10.4230/LIPICS.MFCS.2021.13"
+    },
+    {
+      "name": "Graph easy sets of mute lambda terms",
+      "publisher": "Theoretical Computer Science",
+      "releaseDate": "2016-05-01",
+      "website": "https://linkinghub.elsevier.com/retrieve/pii/S0304397515011858",
+      "summary": "",
+      "authors": "Bucciarelli, A., Carraro, A., Favro, G., Salibra, A.",
+      "doi": "10.1016/j.tcs.2015.12.024"
+    },
+    {
+      "name": "Intransitive Non-Interference by Unfolding",
+      "publisher": "Formal {Aspects} of {Component} {Software}",
+      "releaseDate": "2015-01-01",
+      "website": "https://link.springer.com/10.1007/978-3-319-15317-9_17",
+      "summary": "",
+      "authors": "Baldan, Paolo, Burato, Francesco, Carraro, Alberto",
+      "doi": "10.1007/978-3-319-15317-9_17"
+    },
+    {
+      "name": "A Causal View on Non-Interference",
+      "publisher": "Fundam. Informaticae",
+      "releaseDate": "2015-01-01",
+      "website": "https://doi.org/10.3233/FI-2015-1243",
+      "summary": "",
+      "authors": "Baldan, Paolo, Carraro, Alberto",
+      "doi": "10.3233/FI-2015-1243"
+    },
+    {
+      "name": "Non-interference by Unfolding",
+      "publisher": "Application and {Theory} of {Petri} {Nets} and {Concurrency}",
+      "releaseDate": "2014-01-01",
+      "website": "http://link.springer.com/10.1007/978-3-319-07734-5_11",
+      "summary": "",
+      "authors": "Baldan, Paolo, Carraro, Alberto",
+      "doi": "10.1007/978-3-319-07734-5_11"
+    },
+    {
+      "name": "A Semantical and Operational Account of Call-by-Value Solvability",
+      "publisher": "Foundations of {Software} {Science} and {Computation} {Structures}",
+      "releaseDate": "2014-01-01",
+      "website": "http://link.springer.com/10.1007/978-3-642-54830-7_7",
+      "summary": "",
+      "authors": "Carraro, Alberto, Guerrieri, Giulio",
+      "doi": "10.1007/978-3-642-54830-7_7"
+    },
+    {
+      "name": "A graph-easy class of mute lambda-terms",
+      "publisher": "Proceedings of the 15th {Italian} {Conference} on {Theoretical} {Computer} {Science}, {Perugia}, {Italy}, {September} 17-19, 2014",
+      "releaseDate": "2014-01-01",
+      "website": "https://ceur-ws.org/Vol-1231/long4.pdf",
+      "summary": "",
+      "authors": "Bucciarelli, Antonio, Carraro, Alberto, Favro, Giordano, Salibra, Antonino",
+      "doi": ""
+    },
+    {
+      "name": "Ordered Models of the Lambda Calculus",
+      "publisher": "Log. Methods Comput. Sci.",
+      "releaseDate": "2013-01-01",
+      "website": "https://doi.org/10.2168/LMCS-9(4:21)2013",
+      "summary": "",
+      "authors": "Carraro, Alberto, Salibra, Antonino",
+      "doi": "10.2168/LMCS-9(4:21)2013"
+    },
+    {
+      "name": "Full Abstraction for the Resource Lambda Calculus with Tests, through Taylor Expansion",
+      "publisher": "Logical Methods in Computer Science",
+      "releaseDate": "2012-10-01",
+      "website": "https://lmcs.episciences.org/1047",
+      "summary": "We study the semantics of a resource-sensitive extension of the lambda calculus in a canonical reflexive object of a category of sets and relations, a relational version of Scott's original model of the pure lambda calculus. This calculus is related to Boudol's resource calculus and is derived from Ehrhard and Regnier's differential extension of Linear Logic and of the lambda calculus. We extend it with new constructions, to be understood as implementing a very simple exception mechanism, and with a \"must\" parallel composition. These new operations allow to associate a context of this calculus with any point of the model and to prove full abstraction for the finite sub-calculus where ordinary lambda calculus application is not allowed. The result is then extended to the full calculus by means of a Taylor Expansion formula. As an intermediate result we prove that the exception mechanism is not essential in the finite sub-calculus.",
+      "authors": "Ehrhard, Thomas, Bucciarelli, Antonio, Carraro, Alberto, Manzonetto, Giulio",
+      "doi": "10.2168/LMCS-8(4:3)2012"
+    },
+    {
+      "name": "Easy lambda-terms are not always simple",
+      "publisher": "RAIRO - Theoretical Informatics and Applications",
+      "releaseDate": "2012-04-01",
+      "website": "http://www.rairo-ita.org/10.1051/ita/2012005",
+      "summary": "",
+      "authors": "Carraro, Alberto, Salibra, Antonino",
+      "doi": "10.1051/ita/2012005"
+    },
+    {
+      "name": "On the equational consistency of order-theoretic models of the lambda-calculus",
+      "publisher": "Computer {Science} {Logic} - 26th {International} {Workshop} / 21st {Annual} {Conference} of the {EACSL}, {CSL} 2012, {Fontainebleau}, {France}, {September} 3-6, 2012",
+      "releaseDate": "2012-01-01",
+      "website": "https://doi.org/10.4230/LIPIcs.CSL.2012.152",
+      "summary": "",
+      "authors": "Carraro, Alberto, Salibra, Antonino",
+      "doi": "10.4230/LIPICS.CSL.2012.152"
+    },
+    {
+      "name": "Minimal lambda-theories by ultraproducts",
+      "publisher": "Proceedings {Seventh} {Workshop} on {Logical} and {Semantic} {Frameworks}, with {Applications}, {LSFA} 2012, {Rio} de {Janeiro}, {Brazil}, {September} 29-30, 2012",
+      "releaseDate": "2012-01-01",
+      "website": "https://doi.org/10.4204/EPTCS.113.8",
+      "summary": "",
+      "authors": "Bucciarelli, Antonio, Carraro, Alberto, Salibra, Antonino",
+      "doi": "10.4204/EPTCS.113.8"
+    },
+    {
+      "name": "The untyped stack calculus and Bohm's theorem",
+      "publisher": "Proceedings {Seventh} {Workshop} on {Logical} and {Semantic} {Frameworks}, with {Applications}, {LSFA} 2012, {Rio} de {Janeiro}, {Brazil}, {September} 29-30, 2012",
+      "releaseDate": "2012-01-01",
+      "website": "https://doi.org/10.4204/EPTCS.113.9",
+      "summary": "",
+      "authors": "Carraro, Alberto",
+      "doi": "10.4204/EPTCS.113.9"
+    },
+    {
+      "name": "The stack calculus",
+      "publisher": "Proceedings {Seventh} {Workshop} on {Logical} and {Semantic} {Frameworks}, with {Applications}, {LSFA} 2012, {Rio} de {Janeiro}, {Brazil}, {September} 29-30, 2012",
+      "releaseDate": "2012-01-01",
+      "website": "https://doi.org/10.4204/EPTCS.113.10",
+      "summary": "",
+      "authors": "Carraro, Alberto, Ehrhard, Thomas, Salibra, Antonino",
+      "doi": "10.4204/EPTCS.113.10"
+    },
+    {
+      "name": "Models and theories of pure and resource lambda calculi",
+      "publisher": "",
+      "releaseDate": "2011-01-01",
+      "website": "https://opac.bncf.firenze.sbn.it/bncf-prod/resource?uri=TD12021657",
+      "summary": "",
+      "authors": "Carraro, Alberto",
+      "doi": ""
+    },
+    {
+      "name": "Full Abstraction for Resource Calculus with Tests",
+      "publisher": "Computer {Science} {Logic} - 25th {International} {Workshop} / 20th {Annual} {Conference} of the {EACSL}, {CSL} 2011, {Bergen}, {Norway}, {September} 12-15, 2011, {Proceedings}",
+      "releaseDate": "2011-01-01",
+      "website": "https://doi.org/10.4230/LIPIcs.CSL.2011.97",
+      "summary": "",
+      "authors": "Bucciarelli, Antonio, Carraro, Alberto, Ehrhard, Thomas, Manzonetto, Giulio",
+      "doi": "10.4230/LIPICS.CSL.2011.97"
+    },
+    {
+      "name": "Exponentials with Infinite Multiplicities",
+      "publisher": "Computer {Science} {Logic}",
+      "releaseDate": "2010-01-01",
+      "website": "http://link.springer.com/10.1007/978-3-642-15205-4_16",
+      "summary": "",
+      "authors": "Carraro, Alberto, Ehrhard, Thomas, Salibra, Antonino",
+      "doi": "10.1007/978-3-642-15205-4_16"
+    },
+    {
+      "name": "Resource Combinatory Algebras",
+      "publisher": "Mathematical {Foundations} of {Computer} {Science} 2010",
+      "releaseDate": "2010-01-01",
+      "website": "http://link.springer.com/10.1007/978-3-642-15155-2_22",
+      "summary": "",
+      "authors": "Carraro, Alberto, Ehrhard, Thomas, Salibra, Antonino",
+      "doi": "10.1007/978-3-642-15155-2_22"
+    },
+    {
+      "name": "Reflexive Scott Domains are Not Complete for the Extensional Lambda Calculus",
+      "publisher": "Proceedings of the 24th {Annual} {IEEE} {Symposium} on {Logic} in {Computer} {Science}, {LICS} 2009, 11-14 {August} 2009, {Los} {Angeles}, {CA}, {USA}",
+      "releaseDate": "2009-01-01",
+      "website": "https://doi.org/10.1109/LICS.2009.22",
+      "summary": "",
+      "authors": "Carraro, Alberto, Salibra, Antonino",
+      "doi": "10.1109/LICS.2009.22"
+    },
+    {
+      "name": "On Linear Information Systems",
+      "publisher": "Proceedings {First} {International} {Workshop} on {Linearity}, {LINEARITY} 2009, {Coimbra}, {Portugal}, 12th {September} 2009",
+      "releaseDate": "2009-01-01",
+      "website": "https://doi.org/10.4204/EPTCS.22.4",
+      "summary": "",
+      "authors": "Bucciarelli, Antonio, Carraro, Alberto, Ehrhard, Thomas, Salibra, Antonino",
+      "doi": "10.4204/EPTCS.22.4"
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": [
+    {
+      "name": "Progetto di Computer Vision per concorso Foodity",
+      "category": "software",
+      "date": "2025",
+      "url": "",
+      "description": "Progetto di Computer Vision realizzato per il concorso Foodity."
+    },
+    {
+      "name": "Battaglie di carte con comando vocale",
+      "category": "software",
+      "date": "2022",
+      "url": "https://github.com/ITIS-Zuccante/4ia-2021-2022-uda-pokemon-veneto",
+      "description": "Web app: comando vocale per battaglie con personaggi di famose carte da gioco."
+    },
+    {
+      "name": "Gestione delle ore a disposizione dei docenti",
+      "category": "software",
+      "date": "",
+      "url": "https://github.com/ITIS-Zuccante/SostituzioniOrarieWebApp",
+      "description": "Web app per assegnazione automatica supplenze usando ore a disposizione."
+    },
+    {
+      "name": "Unfolding-Based Interference Checker (UBIC)",
+      "category": "software",
+      "date": "",
+      "url": "",
+      "description": "Software per rilevamento di information-flow indesiderato in reti di Petri con transizioni confidenziali (coll. Paolo Baldan)."
+    },
+    {
+      "name": "Unfolding-Based Interference Checker 2",
+      "category": "software",
+      "date": "",
+      "url": "",
+      "description": "Estensione UBIC per archi lettura e transizioni di downgrading (coll. Paolo Baldan, Francesco Burato)."
+    }
+  ],
+  "contests": [
+    {
+      "date": "2025-06-27",
+      "organization": "Ufficio Scolastico Regionale Veneto – MIM",
+      "result": "Idoneo – Equipe Formativa Territoriale Veneto 2025 (Avviso prot. n. 110913)"
+    },
+    {
+      "date": "2025-03-20",
+      "organization": "Ufficio Scolastico Regionale Veneto – MIM",
+      "result": "Idoneo – selezione docenti per progetti nazionali (Avviso prot. n. 8078)"
+    },
+    {
+      "date": "2016-02-23",
+      "organization": "MIUR",
+      "result": "Vincitore Concorso Ordinario Docenti II grado A041 (D.D.G. n. 106/2016) – 97,5/100"
+    },
+    {
+      "date": "2016-02-23",
+      "organization": "MIUR",
+      "result": "Vincitore Concorso Ordinario Docenti II grado A047 (D.D.G. n. 106/2016) – 96/100"
+    }
+  ],
+  "awards": [
+    {
+      "date": "2025-02-01",
+      "title": "Foodity",
+      "awarder": "Concorso Foodity"
+    },
+    {
+      "date": "2020-02-01",
+      "title": "Secondo posto – Premio Scuola Digitale (fase regionale)",
+      "awarder": "Premio Scuola Digitale"
+    },
+    {
+      "date": "2020-05-01",
+      "title": "Primo posto – Premio Scuola Digitale (fase provinciale)",
+      "awarder": "Premio Scuola Digitale"
+    },
+    {
+      "date": "2019-12-01",
+      "title": "Primo posto – PMExpo 2019 (Project Management)",
+      "awarder": "PMExpo"
+    },
+    {
+      "date": "2014-06-01",
+      "title": "Best paper award – Petri Nets 2014",
+      "awarder": "Petri Nets"
+    },
+    {
+      "date": "2012-10-01",
+      "title": "Premio alla ricerca 2012 (categoria neo-dottori)",
+      "awarder": "Università Ca’ Foscari Venezia"
+    }
+  ]
+}
