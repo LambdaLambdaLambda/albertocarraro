@@ -379,12 +379,12 @@ def generate_html(pub):
   <div class="sidebar sticky">
   <div itemscope itemtype="http://schema.org/Person">
     <div class="author__avatar">
-        <img src="/albertocarraro/images/profile.png" class="author__avatar" alt="Your Sidebar Name"  fetchpriority="high" />
+        <img src="/albertocarraro/images/profile.png" class="author__avatar" alt="Alberto Carraro, PhD"  fetchpriority="high" />
     </div>
 
     <div class="author__content">
-      <h3 class="author__name">Your Sidebar Name</h3>
-      <p class="author__bio">Short biography for the left-hand sidebar</p>
+      <h3 class="author__name">Alberto Carraro, PhD</h3>
+      <p class="author__bio">Teacher, trainer, scientist, researcher</p>
     </div>
 
     <div class="author__urls-wrapper">

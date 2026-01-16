@@ -58,7 +58,7 @@ The script supports standard BibTeX entry types:
 ```bibtex
 @article{yourkey_year,
 	title = {Your Paper Title},
-	author = {First Author and Second Author and Your Name},
+	author = {First Author and Second Author and Alberto Carraro},
 	journal = {Journal Name},
 	year = {2025},
 	volume = {10},
