@@ -391,7 +391,7 @@ def generate_html(pub):
       <button class="btn btn--inverse">Follow</button>
       <ul class="author__urls social-icons">
         <li class="author__desktop"><i class="fas fa-fw fa-location-dot icon-pad-right" aria-hidden="true"></i>Earth</li>
-        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>Red Brick University</li>
+        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i><a href="https://www.mim.gov.it/web/guest/">MIM</a></li>
         <li><a href="mailto:none@example.org"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a></li>
         <li><a href="https://scholar.google.com/citations?user=PS_CX0AAAAAJ"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
         <li><a href="https://orcid.org/yourorcidurl"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
